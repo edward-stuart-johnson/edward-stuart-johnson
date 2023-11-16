@@ -1,4 +1,5 @@
-### Hi there 👋
+
+[![Edward's GitHub stats](https://github-readme-stats.vercel.app/api?username=edward-stuart-johnson)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **edward-stuart-johnson/edward-stuart-johnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
